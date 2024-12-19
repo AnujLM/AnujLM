@@ -2,7 +2,7 @@
 
 Welcome to my work GitHub profile! I'm a software developer focused on creating impactful solutions and building high-quality applications. Here's a bit more about my work:
 
-**Note:** This profile showcases my professional work, including SDK development and collaboration on industry projects. For personal projects, visit my personal GitHub profile [here](https://github.com/shivanuj13).
+>**Note:** This profile showcases my professional work, including SDK development and collaboration on industry projects. For personal projects, visit my personal GitHub profile [here](https://github.com/shivanuj13).
 
 ### 👀 Interests
 - **Software Development:** Building scalable and efficient solutions.
